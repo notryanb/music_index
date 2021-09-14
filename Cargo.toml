@@ -1,0 +1,11 @@
+[package]
+name = "music-index"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2"
+id3 = "0.6.4"
+ulid-lite = "0.6.1"
